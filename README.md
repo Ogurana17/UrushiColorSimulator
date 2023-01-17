@@ -2,6 +2,12 @@
 
 漆を塗布した際の色を簡易確認できるページ。
 
+　漆は塗った直後からだんだん透明に近づいていく性質があるそうです。
+ しかし、漆を塗った直後は漆の色は飴色に近い色をしており、地肌の色が分かりづらい側面があります。
+ 少しでもわかりやすくしようと考えたのが以下のページです。
+ 
+<https://ogurana17.github.io/UrushiColorSimulator/>
+
 ## 使い方
 
 1. <https://ogurana17.github.io/UrushiColorSimulator/>を開く
